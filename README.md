@@ -1,4 +1,4 @@
-# The best Typescript template for node.js.
+# The best Typescript template for node.js!
 
 This template provides configuration for:
 
